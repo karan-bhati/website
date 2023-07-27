@@ -21,6 +21,7 @@ const MetaTags = ({
   return (
     <Head>
       <meta httpEquiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="google-site-verification" content="j1sPhvkGcSI8BdxnTf_obO4tODXSvjJlgSLmZOKbwOg" />
       <meta charSet="utf-8" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
       <title>{title}</title>

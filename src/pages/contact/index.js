@@ -47,14 +47,16 @@ const index = () => {
               <img
                 className="object-cover w-full h-full rounded-theme aspect-video"
                 srcSet="
-              https://images.unsplash.com/photo-1559030623-0226b1241edd?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb250YWN0fGVufDB8fHx8MTY4NzkyNDg2MXww&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;300   300w,
-              https://images.unsplash.com/photo-1559030623-0226b1241edd?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb250YWN0fGVufDB8fHx8MTY4NzkyNDg2MXww&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;600   600w,
-              https://images.unsplash.com/photo-1559030623-0226b1241edd?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb250YWN0fGVufDB8fHx8MTY4NzkyNDg2MXww&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1000 1000w,
-              https://images.unsplash.com/photo-1559030623-0226b1241edd?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb250YWN0fGVufDB8fHx8MTY4NzkyNDg2MXww&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;2000 2000w
+              https://images.unsplash.com/photo-1559030623-0226b1241edd?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb250YWN0fGVufDB8fHx8MTY4NzkyNDg2MXww&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;40&amp;w&#x3D;300   300w,
+              https://images.unsplash.com/photo-1559030623-0226b1241edd?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb250YWN0fGVufDB8fHx8MTY4NzkyNDg2MXww&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;40&amp;w&#x3D;600   600w,
+              https://images.unsplash.com/photo-1559030623-0226b1241edd?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb250YWN0fGVufDB8fHx8MTY4NzkyNDg2MXww&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;40&amp;w&#x3D;1000 1000w,
+              https://images.unsplash.com/photo-1559030623-0226b1241edd?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb250YWN0fGVufDB8fHx8MTY4NzkyNDg2MXww&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;40&amp;w&#x3D;2000 2000w
             "
                 sizes="(min-width: 1400px) 1400px, 92vw"
-                src="https://images.unsplash.com/photo-1559030623-0226b1241edd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb250YWN0fGVufDB8fHx8MTY4NzkyNDg2MXww&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=2000"
+                src="https://images.unsplash.com/photo-1559030623-0226b1241edd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb250YWN0fGVufDB8fHx8MTY4NzkyNDg2MXww&amp;ixlib=rb-4.0.3&amp;q=40&amp;w=2000"
                 alt="Contact"
+                loading="lazily"
+
               />
               <figcaption className="mt-2 text-xs text-left text-gray-500">
                 Photo by

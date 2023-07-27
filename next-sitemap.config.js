@@ -1,5 +1,5 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-    siteUrl: 'https://randomposts.netlify.app',
+    siteUrl: 'https://karanbhati.tech',
     generateRobotsTxt: true, 
   }

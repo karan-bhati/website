@@ -6,13 +6,13 @@ export default function Home({}) {
   return (
     <div>
       <MetaTags
-        title={"home"}
+        title={"Karan Bhati"}
         metaDescription={
           "welcome to my page, I am Karan Bhati,developer, designer, blogger, youtuber etc. you can check my website for more info."
         }
         siteName={"karanbhati.tech"}
         siteType={"personal and blog"}
-        pageTitle={"home"}
+        pageTitle={"Karan Bhati"}
         ogDescription={
           "welcome to my page, I am Karan Bhati,developer, designer, blogger, youtuber etc. you can check my website for more info."
         }
@@ -20,9 +20,9 @@ export default function Home({}) {
         ogImage={"/profile.webp"}
         facebookURL={"https://facebook.com/karanbhati"}
         authorURL={"https://karanbhati.netlify.app"}
-        twitterTitle={"home"}
+        twitterTitle={"Karan Bhati"}
         twitterDescription={
-          "welcome to my page, I am Karan Bhati,developer, designer, blogger, youtuber etc. you can check my website for more info."
+          "I am Karan Bhati,developer, designer, blogger, youtuber etc. you can check my website for more info."
         }
         twitterpageURL={"https://karanbhati.tech"}
         twitterImage={"/profile.webp"}

@@ -56,9 +56,9 @@ Avoid exposing them to direct sunlight or high temperatures, as extreme conditio
 
 By incorporating Superfeet Insoles into your footwear, you can experience a significant improvement in foot health, leading to greater comfort and enjoyment in your daily activities. Remember to choose the right Superfeet Insoles that suit your specific foot type and activity level for the best results.
 
-#### can superfeet insoles be washed
+#### how long do superfeet insoles last
 
-It's a good idea to clean your Superfeet insoles occasionally. Handwash with mild soap and lukewarm water. Use an old toothbrush with soft bristles if needed. Rinse well, remove excess water with a soft towel and allow to air dry, but not near a heat source.
+superfeet insoles lasts for 12 months or 500 miles, whichever comes first.
 
 #### are superfeet insoles fsa eligible
 
